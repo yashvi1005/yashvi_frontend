@@ -1,0 +1,12 @@
+.product-box {
+  padding: 15px;
+}
+.product-detail {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.search-add{
+  display: flex;
+  justify-content: space-between;
+}

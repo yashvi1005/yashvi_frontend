@@ -1,0 +1,11 @@
+.category-box {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  margin-top: 20px;
+  margin: 20px;
+}
+
+.category-add {
+  width: 150px;
+}
